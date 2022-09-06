@@ -6,10 +6,11 @@ let value = [142.28, 1.01, 61.38, 1, 0.86, 4.88];
 function welcome() {
     console.log(`Welcome to Currency Converter!
 1 USD equals 1 USD
-1 USD equals 113.5 JPY
-1 USD equals 0.89 EUR
-1 USD equals 74.36 RUB
-1 USD equals 0.75 GBP`);
+1 USD equals 142.28 JPY
+1 USD equals 1.01 EUR
+1 USD equals 61.38 RUB
+1 USD equals 0.86 GBP
+1 USD equals 4.88 RON`);
 }
 
 function unknown() {
